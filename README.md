@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates a data transformation script written in Rust and its integration with Apache Airflow for scalable and efficient data processing. The Rust script performs data transformation, and Airflow is used to orchestrate and schedule the data processing pipeline.
+This project demonstrates a data transformation script written in Rust and its integration with Apache Airflow for scalable and efficient data processing. The Rust script performs data transformation, and Airflow is used to orchestrate and schedule the data processing pipeline. As Rust continues to grow in popularity, it will continue to play a larger role in data engineering.
 
 ## Rust Data Transformation
 
